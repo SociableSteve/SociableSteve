@@ -16,10 +16,14 @@ while streaming. If you want to check out my streaming efforts head over to my
 
 ## Who I am
 
-Today I am an Engineering Manager with 20 years of experience as an engineer.
 My first proper job was back in 2001 as a junior developer working with CGI/Perl.
 Since then I've worked with all kinds of technologies, working with both servers
 and writing the code that these servers run.
+
+Today I am an Engineering Manager, and work with people more than with code. My
+main focus and what's important to me has changed with that, and I am far more
+interested in building inclusive and welcoming communities and teams than the
+technologies that are used under the hood.
 
 ## What's important to me
 
@@ -32,6 +36,11 @@ the way I act are:
 * Psychological Safety
 * Developer Experience
 * Fail Fast, Learn Quickly
+
+As a hiring manager I always strive to employ, support, and grow people who are
+better than I am at things. I have many mantras, but when it comes to being a manager:
+
+> Good managers don't manage people - We lead people, we manage situations.
 
 ## Where to Find Me
 
