@@ -40,3 +40,42 @@ I have a couple of hiding places on the Internet. You can find me at:
 * [Twitch](https://twitch.com/SociableSteve)
 * [Discord](https://discord.gg/ApNnwac)
 * [Twitter](https://twitter.com/SociableSteve1)
+
+## Technologies I use
+
+These days there are a few core technologies that I use in my modern coding life.
+
+* [Windows](https://docs.microsoft.com/en-us/windows/) with
+[WSL2](https://docs.microsoft.com/en-us/windows/wsl/)
+
+Makes gaming easier to be on Windows. I like to code on Linux when I can, but
+dual-booting is a pain, and WSL does a decent job.
+
+* [NeoVIM](https://neovim.io)
+
+I've recently fallen in love with nvim again. There's a repo with my settings
+[here](https://github.com/sociablesteve/nvim). I used to use VSCode but nvim
+feels a lot more fun, which is why I code.
+
+* [Rust](https://rust-lang.org)
+
+Making WASM games, and doing lower level application programming.
+
+* [TypeScript](https://www.typescriptlang.org/)
+
+All the node and React things. TypeScript is a joy to work with where JS can
+quickly become a mess and hard to navigate with larger projects. Occasionally
+get stuck with some of the more advanced TS features, but that means I keep
+on learning!
+
+* [React](https://reactjs.org/)
+
+I've been using React for so long it's like a second language to me. I can
+use it to build functional front-end easily, and enjoy using some of the
+newer features (read hooks.)
+
+* [Heroku](https://heroku.com)
+
+Running hosting can be a pain, so I tend to just throw things at Heroku and let
+someone else worry about the hosting.
+
