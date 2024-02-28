@@ -1,5 +1,7 @@
 # SociableSteve
 
+# **This is out of date and needs updating**
+
 ![SociableSteve drinking tea](
   assets/emotes/steve-drinking.png
   "SociableSteve drinking tea"
