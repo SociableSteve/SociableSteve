@@ -1,31 +1,28 @@
-# Leadership Manifesto
+# How I Think About Leadership
 
 **Steve Goode** | Head of Engineering at Nearform
 
-This is what you can expect from me as your leader, whether you report to me directly, work within my organization, or collaborate with me professionally.
+I've been thinking a lot about what people should actually expect when they work with me. Not the polished version, but the real deal. Here's how I try to show up as a leader.
 
-## What You Can Expect From Me As Your Leader
+## If You Work With Me
 
-### I Will Invest In Your Growth
-I believe that my primary job is to make you better at your job. You can expect me to:
-- **Understand your career aspirations** and actively work to create opportunities that align with your goals
-- **Give you real feedback when it matters**—days after I notice something, not months later during a formal review
-- **Advocate for your recognition and advancement** both publicly and in rooms where decisions are made
-- **Connect you with opportunities** that actually stretch you. If I see you're ready for something bigger, I'm not waiting for the next review cycle to make it happen.
+### Your Growth Is My Job
+Look, I genuinely think my main job is helping you get better at yours. That means:
+I want to know where you're trying to go with your career, and I'll actively look for ways to get you there. I'm not going to save feedback for your annual review - if I notice something worth discussing, we're talking about it that week. When you do good work, I make sure other people know about it, especially the people making decisions about promotions and opportunities.
 
-### I Will Create Psychological Safety
-You can expect an environment where:
-- **Your questions are welcomed**, no matter how basic they might seem
-- **Mistakes don't get weaponized here**. I've watched too many smart people go quiet because they were afraid of making an error
-- **Disagreement with me is encouraged** when you have better ideas or different perspectives
-- **Be yourself, not who you think I want to see**. Your actual perspective matters more than performing the "right" one
+And if I think you're ready for something bigger? We're not waiting around for the "right time" - I'll create something for you or find you the next challenge.
 
-### I Will Remove Obstacles, Not Create Them
-My role is to make your work easier and more effective by:
-- **Clearing organizational blockers** that prevent you from doing your best work
-- **Providing context and clarity** about decisions, priorities, and organizational changes
-- **Shielding you from unnecessary complexity** while keeping you informed about what matters
-- **Fight upward for what you need**. Budget, headcount, better tools—whatever it takes for you to do your best work
+### You Won't Get Punished for Being Human
+I hate environments where smart people are afraid to ask questions or admit they don't know something. Ask me anything - I don't care if it seems obvious.
+
+More importantly, mistakes aren't going to get held against you. I've seen too many talented people shut down because they were scared of screwing up. That's not happening here.
+
+And please disagree with me when you think I'm wrong. I'm not looking for yes-people. Your actual thoughts are way more valuable than whatever you think I want to hear.
+
+### I Clear the Path, Not Block It
+My job is to make your job easier, not harder. That means dealing with organizational nonsense so you don't have to, making sure you understand why decisions get made, and keeping the noise to a minimum while still keeping you informed about stuff that actually affects your work.
+
+When you need something - budget, people, better tooling, whatever - I'm going to fight for it. Your success makes me successful.
 
 ### I Will Be Transparent About Decisions
 You can expect:
@@ -64,45 +61,45 @@ I believe in building organizations that:
 - **Invest in preventing problems** rather than just solving them
 - **Learn from failures** and use them to build better systems
 
-## My Core Beliefs
+## Things I Actually Believe
 
-**People do their best work when they feel valued and supported.** Everything I do as a leader starts from this principle.
+People do their best work when they feel valued and supported. Everything else I do comes from that.
 
-**Technical excellence and human well-being are not competing priorities.** The best engineering organizations achieve both.
+I don't buy the idea that you have to choose between shipping fast and treating people well. The best teams I've seen do both.
 
-**Leadership is about amplifying others,** not showcasing yourself. My success is measured by the success of the people I lead.
+My job as a leader is to make other people successful, not to make myself look good. If the people I work with are thriving, I'm doing my job right.
 
-**Transparency builds trust, and trust enables speed.** The more context I can provide, the better decisions you can make.
+I'm big on context. The more you understand about why we're doing what we're doing, the better decisions you can make without having to ask me about everything.
 
-**Good intentions don't fix broken systems.** I'd rather build processes that make the right thing the easy thing.
+And honestly? Good intentions are pretty useless if your systems are broken. I'd rather spend time fixing processes that make good outcomes natural than hoping people will just try harder.
 
-## How I Work
+## My Working Style
 
-**I default to over-communication** rather than under-communication. If you need less context, let me know.
+I probably over-communicate. I'd rather give you too much context than not enough - but tell me if it's too much and I'll dial it back.
 
-**I prefer asynchronous communication** for information sharing, and synchronous time for complex problem-solving and relationship building.
+I like async for sharing information (Slack, docs, whatever) and face-to-face time for the messy, complicated stuff where we need to actually think through problems together.
 
-**I believe in delegation with support,** not abandonment. When I give you ownership of something, I'm still here to help you succeed.
+When I delegate something to you, I'm not just throwing it over the fence. I'm still here if you need help or want to bounce ideas around.
 
-**I make decisions quickly when I can, and explain delays when I can't.** You shouldn't have to guess where things stand.
+I try to make decisions fast when I can, and when I can't, I'll tell you why it's taking longer. Nobody should have to wonder where things stand.
 
-**I don't save up feedback for formal reviews**. Good things get recognized quickly, problems get addressed while they're still small.
+And like I said before - feedback happens when it happens, not when HR tells us it's review time.
 
-## What I Ask From You
+## What I Need From You
 
-**Be honest with me** about what's working and what isn't. I can't fix what I can't see.
+Be straight with me. If something's not working, tell me. I can't fix problems I don't know about.
 
-**Bring me problems early** rather than solutions late. I'd rather help you think through challenges than clean up avoidable mistakes.
+Bring me problems when they're still small rather than waiting until they're fires. I'd much rather help you think through something tricky than clean up a mess later.
 
-**Take ownership of your growth.** I'll create opportunities, but you need to take them.
+Own your growth. I'll look for opportunities and open doors, but you have to walk through them.
 
-**Communicate your needs clearly.** I can't read minds, but I can adapt my leadership style to what works for you.
+Tell me what you need to be successful. I can't read your mind, but I can adapt how I work with you if you let me know what actually helps.
 
 ---
 
-This manifesto is a living document. As I grow as a leader and as our organizations evolve, these commitments will deepen and expand.
+This isn't set in stone. I'm still figuring out how to be a better leader, and I expect this will change as I learn more.
 
-Look, manifestos are easy to write and harder to live by. So please call me out when I'm not living up to this stuff. I'd rather you tell me I'm screwing up than let me keep doing it.
+Writing this stuff down is the easy part. Actually doing it consistently is harder. So seriously - if I'm not living up to any of this, call me out. I'd rather know I'm falling short than keep doing it wrong.
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/steve-goode-2488853/) | [stevegoode.dev](https://stevegoode.dev)
 
