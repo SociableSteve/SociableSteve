@@ -1,92 +1,100 @@
-# SociableSteve
+# Steve Goode
 
-# **This is out of date and needs updating**
+**Head of Engineering at Nearform** | Developing engineering leaders and senior engineers
 
 ![SociableSteve drinking tea](
   assets/emotes/steve-drinking.png
-  "SociableSteve drinking tea"
+  "Steve Goode - Head of Engineering"
 )
-![Comet waving](assets/emotes/comet-waving.png "Comet waving")
-![SociableSteve waving](assets/emotes/steve-waving.png "SociableSteve waving")
-![Comet](assets/emotes/comet.png "Comet")
-![SociableSteve](assets/emotes/steve.png "SociableSteve")
-![Comet begging](assets/emotes/comet-begging.png "Comet begging")
 
-Welcome to my GitHub. Here you will be able to find all the projects I work on
-while streaming. If you want to check out my streaming efforts head over to my
-[Twitch](https://twitch.tv/SociableSteve) page!
+Welcome to my GitHub profile! Here you'll find projects, experiments, and insights from my journey in engineering leadership development. With over 20 years in software development, I'm passionate about guiding leaders and senior engineers to build exceptional teams and foster inclusive, growth-oriented cultures.
 
-## Who I am
+## About Me
 
-My first proper job was back in 2001 as a junior developer working with CGI/Perl.
-Since then I've worked with all kinds of technologies, working with both servers
-and writing the code that these servers run.
+I started my career in 2001 as a junior developer working with CGI/Perl, and since then I've evolved through the full spectrum of software engineering - from individual contributor to technical leader to Head of Engineering. Today, I focus on what I believe matters most: **developing the leaders who empower others to do their best work**.
 
-Today I am an Engineering Manager, and work with people more than with code. My
-main focus and what's important to me has changed with that, and I am far more
-interested in building inclusive and welcoming communities and teams than the
-technologies that are used under the hood.
+As Head of Engineering at [Nearform](https://www.nearform.com/), I guide engineering managers, tech leads, and senior engineers in their leadership journey. I design promotion frameworks, facilitate leadership development, and coach the leaders who build high-performing teams. My work centers on creating the conditions where technical excellence and human potential intersect.
 
-## What's important to me
+## What I Focus On
 
-The things which guide me in my decision making, interactions with others, and
-the way I act are:
+**🎯 Leadership Development & Mentoring**
+- Coaching engineering managers and tech leads to reach their full potential
+- Structured mentoring programs that develop leadership capabilities in senior engineers
+- Creating pathways for individual contributors to grow into effective technical leaders
 
-* Diversity
-* Inclusion
-* Accessibility
-* Psychological Safety
-* Developer Experience
-* Fail Fast, Learn Quickly
+**📈 Engineering Promotion & Career Development**
+- Designing transparent promotion frameworks that recognize technical contributions
+- Building clear career ladders for both management and individual contributor tracks
+- Coaching leaders through calibration processes and performance management
 
-As a hiring manager I always strive to employ, support, and grow people who are
-better than I am at things. I have many mantras, but when it comes to being a manager:
+**🔍 Strategic Leadership Support**
+- Guiding engineering leaders in building diverse, high-performing teams
+- Coaching managers on inclusive hiring practices and talent development
+- Supporting leaders in creating psychological safety within their teams
 
-> Good managers don't manage people - We lead people, we manage situations.
+**🏗️ Organizational Excellence & Systems**
+- Coaching leaders to establish engineering standards and practices that scale
+- Guiding teams through processes that balance speed with quality
+- Supporting engineering leaders in building sustainable organizational culture
 
-## Where to Find Me
+## Core Values
 
-I have a couple of hiding places on the Internet. You can find me at:
+The principles that guide my decisions and interactions:
 
-* [Twitch](https://twitch.com/SociableSteve)
-* [Discord](https://discord.gg/ApNnwac)
-* [Twitter](https://twitter.com/SociableSteve1)
+- **Psychological Safety** - Creating environments where people can be vulnerable, ask questions, and make mistakes
+- **Technical Excellence** - Maintaining high standards while enabling teams to move quickly
+- **Inclusive Leadership** - Building teams where everyone can contribute their best work
+- **Continuous Learning** - Fostering growth mindsets and learning cultures
+- **Developer Experience** - Making the daily work of engineering enjoyable and productive
+- **Servant Leadership** - Leading by removing obstacles and amplifying others
 
-## Technologies I use
+> "Good managers don't manage people - we lead people, we manage situations."
 
-These days there are a few core technologies that I use in my modern coding life.
+## Recent Writing & Thoughts
 
-* [Windows](https://docs.microsoft.com/en-us/windows/) with
-[WSL2](https://docs.microsoft.com/en-us/windows/wsl/)
+I write about engineering leadership development, organizational dynamics, and the intersection of technology and human potential. Recent topics include:
 
-Makes gaming easier to be on Windows. I like to code on Linux when I can, but
-dual-booting is a pain, and WSL does a decent job.
+- AI-native engineering and the importance of human-in-the-loop processes
+- Building promotion frameworks that actually work
+- Coaching strategies for developing senior engineers into leaders
+- Guiding managers in creating psychological safety within their teams
 
-* [NeoVIM](https://neovim.io)
+## Technologies & Tools
 
-I've recently fallen in love with nvim again. There's a repo with my settings
-[here](https://github.com/sociablesteve/nvim). I used to use VSCode but nvim
-feels a lot more fun, which is why I code.
+While my day-to-day work is more about people than code, I stay connected to the technical side through:
 
-* [Rust](https://rust-lang.org)
+**Development Environment:**
+- **NeoVim** - My editor of choice, with a custom config at [sociablesteve/nvim](https://github.com/sociablesteve/nvim)
+- **WSL2** on Windows - Best of both worlds for development and gaming
+- **TypeScript/React** - My go-to for modern web development
+- **Rust** - For systems programming and WebAssembly projects
+- **Next.js** - Building modern web applications and sites
 
-Making WASM games, and doing lower level application programming.
+**Leadership Tools:**
+- **GitHub** - Code review, project management, and team collaboration
+- **Linear/Jira** - Sprint planning and project tracking
+- **Figma** - Design collaboration and system documentation
+- **Miro** - Workshop facilitation and system design sessions
 
-* [TypeScript](https://www.typescriptlang.org/)
+## Connect With Me
 
-All the node and React things. TypeScript is a joy to work with where JS can
-quickly become a mess and hard to navigate with larger projects. Occasionally
-get stuck with some of the more advanced TS features, but that means I keep
-on learning!
+**Professional:**
+- [LinkedIn](https://www.linkedin.com/in/steve-goode-2488853/) - Professional updates and engineering leadership content
+- [Personal Website](https://stevegoode.dev) - Blog posts and deeper thoughts on engineering leadership
 
-* [React](https://reactjs.org/)
+**Community:**
+- [Twitch](https://twitch.tv/SociableSteve) - Occasional coding streams and tech talks
+- [Discord](https://discord.gg/ApNnwac) - Community discussions about engineering and leadership
+- [Twitter](https://twitter.com/SociableSteve1) - Quick thoughts and industry observations
 
-I've been using React for so long it's like a second language to me. I can
-use it to build functional front-end easily, and enjoy using some of the
-newer features (read hooks.)
+## Current Projects
 
-* [Heroku](https://heroku.com)
+🔧 **Open Source Contributions** - Contributing to tools that help engineering teams
+📝 **Writing** - Regular posts about engineering leadership and team building
+🎤 **Speaking** - Conference talks on technical mentoring and promotion processes
+🧪 **Experiments** - Exploring AI-assisted development workflows and tooling
 
-Running hosting can be a pain, so I tend to just throw things at Heroku and let
-someone else worry about the hosting.
+---
+
+*Always happy to discuss leadership development, coaching senior engineers, or organizational excellence. Feel free to reach out!*
 
