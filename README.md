@@ -1,100 +1,106 @@
-# Steve Goode
+# Leadership Manifesto
 
-**Head of Engineering at Nearform** | Developing engineering leaders and senior engineers
+**Steve Goode** | Head of Engineering at Nearform
 
-![SociableSteve drinking tea](
-  assets/emotes/steve-drinking.png
-  "Steve Goode - Head of Engineering"
-)
+This is what you can expect from me as your leader, whether you report to me directly, work within my organization, or collaborate with me professionally.
 
-Welcome to my GitHub profile! Here you'll find projects, experiments, and insights from my journey in engineering leadership development. With over 20 years in software development, I'm passionate about guiding leaders and senior engineers to build exceptional teams and foster inclusive, growth-oriented cultures.
+## What You Can Expect From Me As Your Leader
 
-## About Me
+### I Will Invest In Your Growth
+I believe that my primary job is to make you better at yours. You can expect me to:
+- **Understand your career aspirations** and actively work to create opportunities that align with your goals
+- **Provide honest, actionable feedback** that helps you grow, even when it's uncomfortable
+- **Advocate for your recognition and advancement** both publicly and in rooms where decisions are made
+- **Connect you with opportunities** that stretch your capabilities and expand your impact
 
-I started my career in 2001 as a junior developer working with CGI/Perl, and since then I've evolved through the full spectrum of software engineering - from individual contributor to technical leader to Head of Engineering. Today, I focus on what I believe matters most: **developing the leaders who empower others to do their best work**.
+### I Will Create Psychological Safety
+You can expect an environment where:
+- **Your questions are welcomed**, no matter how basic they might seem
+- **Mistakes are learning opportunities**, not reasons for judgment or punishment
+- **Disagreement with me is encouraged** when you have better ideas or different perspectives
+- **Your authentic self is valued**, regardless of background, experience level, or working style
 
-As Head of Engineering at [Nearform](https://www.nearform.com/), I guide engineering managers, tech leads, and senior engineers in their leadership journey. I design promotion frameworks, facilitate leadership development, and coach the leaders who build high-performing teams. My work centers on creating the conditions where technical excellence and human potential intersect.
+### I Will Remove Obstacles, Not Create Them
+My role is to make your work easier and more effective by:
+- **Clearing organizational blockers** that prevent you from doing your best work
+- **Providing context and clarity** about decisions, priorities, and organizational changes
+- **Shielding you from unnecessary complexity** while keeping you informed about what matters
+- **Fighting for the resources and support** your team needs to succeed
 
-## What I Focus On
+### I Will Be Transparent About Decisions
+You can expect:
+- **Clear reasoning** behind decisions that affect you and your work
+- **Honest communication** about organizational changes, challenges, and opportunities
+- **Access to information** you need to make good decisions in your own work
+- **Acknowledgment when I don't know something** or when I make mistakes
 
-**🎯 Leadership Development & Mentoring**
-- Coaching engineering managers and tech leads to reach their full potential
-- Structured mentoring programs that develop leadership capabilities in senior engineers
-- Creating pathways for individual contributors to grow into effective technical leaders
+## What You Can Expect From Me For Your Organization
 
-**📈 Engineering Promotion & Career Development**
-- Designing transparent promotion frameworks that recognize technical contributions
-- Building clear career ladders for both management and individual contributor tracks
-- Coaching leaders through calibration processes and performance management
+### I Will Build Systems That Scale People
+I focus on creating organizational capabilities that:
+- **Develop leadership at every level**, not just at the top
+- **Recognize and reward the behaviors** that drive both individual and collective success
+- **Provide clear paths for growth** in both technical and leadership directions
+- **Foster knowledge sharing** so expertise isn't trapped in silos
 
-**🔍 Strategic Leadership Support**
-- Guiding engineering leaders in building diverse, high-performing teams
-- Coaching managers on inclusive hiring practices and talent development
-- Supporting leaders in creating psychological safety within their teams
+### I Will Champion Technical Excellence
+I will ensure that:
+- **Engineering standards serve the engineers**, not the other way around
+- **Technical debt is treated as a business concern**, not just an engineering problem
+- **Investment in developer experience** is seen as critical to organizational success
+- **Technical decisions are made by the people closest to the code**, with appropriate context and support
 
-**🏗️ Organizational Excellence & Systems**
-- Coaching leaders to establish engineering standards and practices that scale
-- Guiding teams through processes that balance speed with quality
-- Supporting engineering leaders in building sustainable organizational culture
+### I Will Build Inclusive, High-Performing Teams
+I commit to creating organizations where:
+- **Diverse perspectives are not just welcomed, but actively sought**
+- **Performance is measured by impact and growth**, not just output
+- **Collaboration is the default**, with systems that support rather than hinder teamwork
+- **Success is celebrated collectively**, while individual contributions are recognized
 
-## Core Values
+### I Will Focus On Sustainable Excellence
+I believe in building organizations that:
+- **Prioritize long-term health over short-term gains**
+- **Support work-life integration** rather than demanding work-life sacrifice
+- **Invest in preventing problems** rather than just solving them
+- **Learn from failures** and use them to build better systems
 
-The principles that guide my decisions and interactions:
+## My Core Beliefs
 
-- **Psychological Safety** - Creating environments where people can be vulnerable, ask questions, and make mistakes
-- **Technical Excellence** - Maintaining high standards while enabling teams to move quickly
-- **Inclusive Leadership** - Building teams where everyone can contribute their best work
-- **Continuous Learning** - Fostering growth mindsets and learning cultures
-- **Developer Experience** - Making the daily work of engineering enjoyable and productive
-- **Servant Leadership** - Leading by removing obstacles and amplifying others
+**People do their best work when they feel valued and supported.** Everything I do as a leader starts from this principle.
 
-> "Good managers don't manage people - we lead people, we manage situations."
+**Technical excellence and human well-being are not competing priorities.** The best engineering organizations achieve both.
 
-## Recent Writing & Thoughts
+**Leadership is about amplifying others,** not showcasing yourself. My success is measured by the success of the people I lead.
 
-I write about engineering leadership development, organizational dynamics, and the intersection of technology and human potential. Recent topics include:
+**Transparency builds trust, and trust enables speed.** The more context I can provide, the better decisions you can make.
 
-- AI-native engineering and the importance of human-in-the-loop processes
-- Building promotion frameworks that actually work
-- Coaching strategies for developing senior engineers into leaders
-- Guiding managers in creating psychological safety within their teams
+**Systems shape behavior more than good intentions do.** I focus on building processes and structures that make good outcomes natural.
 
-## Technologies & Tools
+## How I Work
 
-While my day-to-day work is more about people than code, I stay connected to the technical side through:
+**I default to over-communication** rather than under-communication. If you need less context, let me know.
 
-**Development Environment:**
-- **NeoVim** - My editor of choice, with a custom config at [sociablesteve/nvim](https://github.com/sociablesteve/nvim)
-- **WSL2** on Windows - Best of both worlds for development and gaming
-- **TypeScript/React** - My go-to for modern web development
-- **Rust** - For systems programming and WebAssembly projects
-- **Next.js** - Building modern web applications and sites
+**I prefer asynchronous communication** for information sharing, and synchronous time for complex problem-solving and relationship building.
 
-**Leadership Tools:**
-- **GitHub** - Code review, project management, and team collaboration
-- **Linear/Jira** - Sprint planning and project tracking
-- **Figma** - Design collaboration and system documentation
-- **Miro** - Workshop facilitation and system design sessions
+**I believe in delegation with support,** not abdication. When I give you ownership of something, I'm still here to help you succeed.
 
-## Connect With Me
+**I make decisions quickly when I can, and explain delays when I can't.** You shouldn't have to guess where things stand.
 
-**Professional:**
-- [LinkedIn](https://www.linkedin.com/in/steve-goode-2488853/) - Professional updates and engineering leadership content
-- [Personal Website](https://stevegoode.dev) - Blog posts and deeper thoughts on engineering leadership
+**I give feedback as close to real-time as possible,** both positive recognition and areas for improvement.
 
-**Community:**
-- [Twitch](https://twitch.tv/SociableSteve) - Occasional coding streams and tech talks
-- [Discord](https://discord.gg/ApNnwac) - Community discussions about engineering and leadership
-- [Twitter](https://twitter.com/SociableSteve1) - Quick thoughts and industry observations
+## What I Ask From You
 
-## Current Projects
+**Be honest with me** about what's working and what isn't. I can't fix what I can't see.
 
-🔧 **Open Source Contributions** - Contributing to tools that help engineering teams
-📝 **Writing** - Regular posts about engineering leadership and team building
-🎤 **Speaking** - Conference talks on technical mentoring and promotion processes
-🧪 **Experiments** - Exploring AI-assisted development workflows and tooling
+**Bring me problems early** rather than solutions late. I'd rather help you think through challenges than clean up avoidable mistakes.
+
+**Take ownership of your growth.** I'll create opportunities, but you need to take them.
+
+**Communicate your needs clearly.** I can't read minds, but I can adapt my leadership style to what works for you.
 
 ---
 
-*Always happy to discuss leadership development, coaching senior engineers, or organizational excellence. Feel free to reach out!*
+This manifesto is a living document. As I grow as a leader and as our organizations evolve, these commitments will deepen and expand. If you ever feel I'm not living up to these expectations, please tell me directly.
+
+**Contact:** [LinkedIn](https://www.linkedin.com/in/steve-goode-2488853/) | [stevegoode.dev](https://stevegoode.dev)
 
