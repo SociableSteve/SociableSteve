@@ -1,34 +1,29 @@
 # Steve Goode
 
-Head of Engineering at [Nearform](https://www.nearform.com/)
+Currently Head of Engineering at [Nearform](https://www.nearform.com/)
 
-I've been building software and leading engineering teams for over 20 years - started as a junior dev writing CGI/Perl back in 2001 and somehow ended up here. These days I spend most of my time thinking about how engineering teams can work better together and deliver great software without burning out.
+I've been building software for over 20 years and leading/growing them for over 10. My focus is how to help engineers grow and engineering teams of any type (not just software these days) navigate the changing landscape of engineering.
 
-## What I'm Working On
+## What I'm Focused On
 
-**AI in Engineering Workflows**
-I'm fascinated by how teams can actually use AI tools in their day-to-day work without losing the human judgment that makes software good. Not the hype stuff - the practical "how do we integrate this into our workflow without it becoming a mess" questions.
+- **AI Native Engineering Workflows**
+AI is here and it's important we understand how to use these new tools in a way which is effective and practical. Not the hype but worrying about how we work with this in teams, day-to-day.
 
-**Building Teams That Actually Work**
-What makes some engineering teams just... click? I've seen teams with amazing individual talent that couldn't ship anything, and I've seen smaller teams punch way above their weight. The difference usually isn't technical.
+- **Building High Performing Teams**
+Over the years I've seen people from many different types of background, personally and professionally. Part of my mission is to help everyone in my teams (direct or indirect) be successful and learn how to work in a pragmatic and performant way.
 
-**Scaling Without Breaking Things**
-Growing from 10 engineers to 100+ is hard. Really hard. I'm interested in the systems and processes that help organizations scale while keeping the things that made them good in the first place.
+- **Scaling Without Breaking**
+I've worked with teams and companies of different sizes in different stages in their journey. Part of what I focus on it how to keep scaling these teams sustainably. This includes ensuring the processes are in place and, imporantly, that people don't become resources.
 
-**Career Growth & Development**
-How do you create paths for people to grow - both technically and into leadership - without it feeling like corporate BS? I care a lot about building frameworks that actually help people progress in their careers.
-
-**Sustainable Pace**
-I've seen too many teams burn out from trying to move fast. There's got to be a better way to maintain velocity without sacrificing quality or people's wellbeing. Still figuring this one out.
+- **Career Growth & Development**
+Throughout my leadership journey I've helped support numerous people grow both within and beyond their current role, helping people transition between disciplines, and ensured that everyone comes on the journey together.
 
 ## Writing
 
-I write about this stuff at [stevegoode.dev](https://stevegoode.dev). Recently wrote about AI-Native Engineering and why keeping humans in the loop matters more than the tools themselves.
+Find my writings at [stevegoode.dev](https://stevegoode.dev). I try (and often fail) to post regularly. Recent articles:
 
-Currently working on AI integration strategies for the teams at Nearform - trying to figure out what actually works vs what sounds good in theory.
+- [AI Won't Tell You When It's Wrong — Why Human-in-the-Loop Engineering Matters](https://stevegoode.dev/blog/ai-wont-tell-you-when-its-wrong/)
 
 ## Connect
 
-Find me on [LinkedIn](https://www.linkedin.com/in/steve-goode-2488853/) or check out [stevegoode.dev](https://stevegoode.dev) for longer thoughts.
-
-Always happy to chat with other engineering leaders dealing with similar challenges.
+You can find me on [LinkedIn](https://www.linkedin.com/in/steve-goode-2488853/). I'm always happy to chat with other engineering leaders dealing with similar challenges.
