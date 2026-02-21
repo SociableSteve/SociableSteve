@@ -2,7 +2,7 @@
 
 Currently Head of Engineering at [Nearform](https://www.nearform.com/)
 
-I've been building software for over 20 years and leading/growing them for over 10. My focus is how to help engineers grow and engineering teams of any type (not just software these days) navigate the changing landscape of engineering.
+I've been building software for over 20 years, including leading and growing engineers and teams for over 10. My focus is how to help engineers grow and multi-disciplinary teams navigate the changing landscape of engineering.
 
 ## What I'm Focused On
 
@@ -13,7 +13,7 @@ AI is here and it's important we understand how to use these new tools in a way 
 Over the years I've seen people from many different types of background, personally and professionally. Part of my mission is to help everyone in my teams (direct or indirect) be successful and learn how to work in a pragmatic and performant way.
 
 - **Scaling Without Breaking**
-I've worked with teams and companies of different sizes in different stages in their journey. Part of what I focus on it how to keep scaling these teams sustainably. This includes ensuring the processes are in place and, imporantly, that people don't become resources.
+I've worked with teams and companies of different sizes in different stages in their journey. Part of what I focus on it how to keep scaling these teams sustainably. This includes ensuring the processes are in place and, importantly, that people don't become only resources in a spreadsheet.
 
 - **Career Growth & Development**
 Throughout my leadership journey I've helped support numerous people grow both within and beyond their current role, helping people transition between disciplines, and ensured that everyone comes on the journey together.
