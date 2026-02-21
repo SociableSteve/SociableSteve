@@ -18,6 +18,9 @@ The challenges that emerge as engineering organizations grow from 10 to 100 to 1
 **🌱 Supporting and leading growth**
 Designing career development frameworks, mentoring programs, and promotion processes that recognize both technical contributions and leadership potential across different career paths.
 
+**📚 Building upskilling pathways**
+Developing structured approaches to help engineers grow both technical expertise and leadership capabilities, creating clear progression paths that serve individual ambitions and organizational needs.
+
 **🚀 Enabling sustainable, fast-paced, outcomes focused work environments**
 Creating the conditions where teams can move quickly while maintaining quality and avoiding burnout. Building systems that prioritize meaningful outcomes over busy work and output metrics.
 
@@ -26,7 +29,6 @@ Creating the conditions where teams can move quickly while maintaining quality a
 I write about engineering leadership and organizational development at [stevegoode.dev](https://stevegoode.dev). Recent topics include:
 
 - AI-Native Engineering and the importance of human-in-the-loop processes
-- Building upskilling pathways that develop both technical and leadership capabilities
 
 ## Current Projects
 
