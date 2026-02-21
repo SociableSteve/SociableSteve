@@ -7,7 +7,7 @@ I'm focused on helping engineering teams and leaders navigate the evolving lands
 ## Areas of Focus
 
 **🤖 Sustainable use of AI in the workflow**
-Exploring how engineering teams can integrate AI tools without losing the human judgment that drives quality software. I'm particularly interested in AI-native development practices that amplify rather than replace engineering expertise.
+Exploring how engineering teams can integrate AI tools without losing the human judgment that drives quality software. I'm particularly interested in AI-Native Engineering practices that amplify rather than replace engineering expertise.
 
 **⚡ Building high-performing teams**
 What separates good engineering teams from exceptional ones? I focus on psychological safety, clear communication patterns, and the organizational conditions that let talented people do their best work.
@@ -25,16 +25,12 @@ Creating the conditions where teams can move quickly while maintaining quality a
 
 I write about engineering leadership and organizational development at [stevegoode.dev](https://stevegoode.dev). Recent topics include:
 
-- AI-native engineering and the importance of human-in-the-loop processes
-- Building transparent promotion frameworks that actually work
-- Creating psychological safety in high-performance environments
-- The evolution from individual contributor to engineering leader
+- AI-Native Engineering and the importance of human-in-the-loop processes
+- Building upskilling pathways that develop both technical and leadership capabilities
 
 ## Current Projects
 
 - Developing AI integration strategies for engineering teams at Nearform
-- Researching scalable approaches to technical mentoring
-- Contributing to open source tools that support engineering productivity
 
 ## Connect
 
