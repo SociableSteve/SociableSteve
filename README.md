@@ -9,27 +9,27 @@ This is what you can expect from me as your leader, whether you report to me dir
 ### I Will Invest In Your Growth
 I believe that my primary job is to make you better at your job. You can expect me to:
 - **Understand your career aspirations** and actively work to create opportunities that align with your goals
-- **Provide honest, actionable feedback within days of observing something**—not months later at review time—which means faster career progression and clearer development paths
+- **Give you real feedback when it matters**—days after I notice something, not months later during a formal review
 - **Advocate for your recognition and advancement** both publicly and in rooms where decisions are made
-- **Connect you with opportunities** that stretch your capabilities and expand your impact. For example, when I see someone ready for more responsibility, I don't wait for the next review cycle—I create stretch assignments immediately and advocate upward for their recognition.
+- **Connect you with opportunities** that actually stretch you. If I see you're ready for something bigger, I'm not waiting for the next review cycle to make it happen.
 
 ### I Will Create Psychological Safety
 You can expect an environment where:
 - **Your questions are welcomed**, no matter how basic they might seem
-- **Mistakes are learning opportunities**, not reasons for judgment or punishment—because I've seen too many talented people shut down in environments where every error becomes a weapon
+- **Mistakes don't get weaponized here**. I've watched too many smart people go quiet because they were afraid of making an error
 - **Disagreement with me is encouraged** when you have better ideas or different perspectives
-- **Your authentic self is valued**—not the version you think I want to see, but the real you with your unique perspective and approach, regardless of background, experience level, or working style
+- **Be yourself, not who you think I want to see**. Your actual perspective matters more than performing the "right" one
 
 ### I Will Remove Obstacles, Not Create Them
 My role is to make your work easier and more effective by:
 - **Clearing organizational blockers** that prevent you from doing your best work
 - **Providing context and clarity** about decisions, priorities, and organizational changes
 - **Shielding you from unnecessary complexity** while keeping you informed about what matters
-- **Fighting for the resources and support** your team needs to succeed—from budget requests to hiring approvals to tool upgrades
+- **Fight upward for what you need**. Budget, headcount, better tools—whatever it takes for you to do your best work
 
 ### I Will Be Transparent About Decisions
 You can expect:
-- **Clear reasoning** behind decisions that affect you and your work—shared in writing when possible, discussed in person when needed
+- **Tell you why decisions get made**. Sometimes in writing, sometimes over coffee, but always with the real reasoning
 - **Honest communication** about organizational changes, challenges, and opportunities
 - **Access to information** you need to make good decisions in your own work
 - **Acknowledgment when I don't know something** or when I make mistakes
@@ -41,14 +41,14 @@ I focus on creating organizational capabilities that:
 - **Develop leadership at every level**, not just at the top
 - **Recognize and reward the behaviors** that drive both individual and collective success
 - **Provide clear paths for growth** in both technical and leadership directions
-- **Foster knowledge sharing** so expertise isn't trapped in silos—which means you learn faster and avoid reinventing solutions
+- **Break down knowledge silos**. Smart people shouldn't have to reinvent what someone else already figured out
 
 ### I Will Champion Technical Excellence
 You can count on me to ensure:
 - **Engineering standards serve the engineers**, not the other way around
 - **Technical debt is treated as a business concern**, not just an engineering problem
 - **Investment in developer experience** is seen as critical to organizational success
-- **Technical decisions are made by the people closest to the code**, with appropriate context and support—which means you have real ownership over your work and aren't micromanaged
+- **The people writing the code make the technical decisions**. You know your domain better than I do
 
 ### I Will Build Inclusive, High-Performing Teams
 I'm committed to building organizations where:
@@ -74,7 +74,7 @@ I believe in building organizations that:
 
 **Transparency builds trust, and trust enables speed.** The more context I can provide, the better decisions you can make.
 
-**Systems shape behavior more than good intentions do.** I focus on building processes and structures that make good outcomes natural.
+**Good intentions don't fix broken systems.** I'd rather build processes that make the right thing the easy thing.
 
 ## How I Work
 
@@ -86,7 +86,7 @@ I believe in building organizations that:
 
 **I make decisions quickly when I can, and explain delays when I can't.** You shouldn't have to guess where things stand.
 
-**I give feedback as close to real-time as possible**—within days, not months—both positive recognition and areas for improvement.
+**I don't save up feedback for formal reviews**. Good things get recognized quickly, problems get addressed while they're still small.
 
 ## What I Ask From You
 
@@ -102,7 +102,7 @@ I believe in building organizations that:
 
 This manifesto is a living document. As I grow as a leader and as our organizations evolve, these commitments will deepen and expand.
 
-I know manifestos are easy to write and harder to live. That's why I ask you to hold me accountable to these standards. If you ever feel I'm not living up to these expectations, please tell me directly. I'd rather hear hard truths than operate with blind spots.
+Look, manifestos are easy to write and harder to live by. So please call me out when I'm not living up to this stuff. I'd rather you tell me I'm screwing up than let me keep doing it.
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/steve-goode-2488853/) | [stevegoode.dev](https://stevegoode.dev)
 
