@@ -1,44 +1,34 @@
 # Steve Goode
 
-**Head of Engineering** at [Nearform](https://www.nearform.com/) | Building engineering excellence at scale
+Head of Engineering at [Nearform](https://www.nearform.com/)
 
-I'm focused on helping engineering teams and leaders navigate the evolving landscape of software development. With 20+ years of experience spanning individual contribution to executive leadership, I work on the intersection of technical excellence and human potential.
+I've been building software and leading engineering teams for over 20 years - started as a junior dev writing CGI/Perl back in 2001 and somehow ended up here. These days I spend most of my time thinking about how engineering teams can work better together and deliver great software without burning out.
 
-## Areas of Focus
+## What I'm Working On
 
-**🤖 Sustainable use of AI in the workflow**
-Exploring how engineering teams can integrate AI tools without losing the human judgment that drives quality software. I'm particularly interested in AI-Native Engineering practices that amplify rather than replace engineering expertise.
+**AI in Engineering Workflows**
+I'm fascinated by how teams can actually use AI tools in their day-to-day work without losing the human judgment that makes software good. Not the hype stuff - the practical "how do we integrate this into our workflow without it becoming a mess" questions.
 
-**⚡ Building high-performing teams**
-What separates good engineering teams from exceptional ones? I focus on psychological safety, clear communication patterns, and the organizational conditions that let talented people do their best work.
+**Building Teams That Actually Work**
+What makes some engineering teams just... click? I've seen teams with amazing individual talent that couldn't ship anything, and I've seen smaller teams punch way above their weight. The difference usually isn't technical.
 
-**📈 Scaling engineering teams**
-The challenges that emerge as engineering organizations grow from 10 to 100 to 1000+ people. Building systems, processes, and cultures that maintain quality and velocity at scale.
+**Scaling Without Breaking Things**
+Growing from 10 engineers to 100+ is hard. Really hard. I'm interested in the systems and processes that help organizations scale while keeping the things that made them good in the first place.
 
-**🌱 Supporting and leading growth**
-Designing career development frameworks, mentoring programs, and promotion processes that recognize both technical contributions and leadership potential across different career paths.
+**Career Growth & Development**
+How do you create paths for people to grow - both technically and into leadership - without it feeling like corporate BS? I care a lot about building frameworks that actually help people progress in their careers.
 
-**📚 Building upskilling pathways**
-Developing structured approaches to help engineers grow both technical expertise and leadership capabilities, creating clear progression paths that serve individual ambitions and organizational needs.
+**Sustainable Pace**
+I've seen too many teams burn out from trying to move fast. There's got to be a better way to maintain velocity without sacrificing quality or people's wellbeing. Still figuring this one out.
 
-**🚀 Enabling sustainable, fast-paced, outcomes focused work environments**
-Creating the conditions where teams can move quickly while maintaining quality and avoiding burnout. Building systems that prioritize meaningful outcomes over busy work and output metrics.
+## Writing
 
-## Recent Writing & Speaking
+I write about this stuff at [stevegoode.dev](https://stevegoode.dev). Recently wrote about AI-Native Engineering and why keeping humans in the loop matters more than the tools themselves.
 
-I write about engineering leadership and organizational development at [stevegoode.dev](https://stevegoode.dev). Recent topics include:
-
-- AI-Native Engineering and the importance of human-in-the-loop processes
-
-## Current Projects
-
-- Developing AI integration strategies for engineering teams at Nearform
+Currently working on AI integration strategies for the teams at Nearform - trying to figure out what actually works vs what sounds good in theory.
 
 ## Connect
 
-- **Writing:** [stevegoode.dev](https://stevegoode.dev) - Longer thoughts on engineering leadership
-- **Professional:** [LinkedIn](https://www.linkedin.com/in/steve-goode-2488853/) - Industry updates and connections
+Find me on [LinkedIn](https://www.linkedin.com/in/steve-goode-2488853/) or check out [stevegoode.dev](https://stevegoode.dev) for longer thoughts.
 
----
-
-*Always interested in connecting with other engineering leaders tackling similar challenges. Feel free to reach out.*
+Always happy to chat with other engineering leaders dealing with similar challenges.
