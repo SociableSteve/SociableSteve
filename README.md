@@ -22,7 +22,7 @@ Throughout my leadership journey I've helped support numerous people grow both w
 
 Find my writings at [stevegoode.dev](https://stevegoode.dev). I try (and often fail) to post regularly. Recent articles:
 
-- [AI Won't Tell You When It's Wrong — Why Human-in-the-Loop Engineering Matters](https://stevegoode.dev/blog/ai-wont-tell-you-when-its-wrong/)
+- [What I learned using AI - Why the human-in-the-loop matters](https://stevegoode.dev/blog/what-i-learned-using-ai/)
 
 ## Connect
 
