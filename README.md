@@ -23,6 +23,7 @@ Throughout my leadership journey I've helped support numerous people grow both w
 Find my writings at [stevegoode.dev](https://stevegoode.dev). I try (and often fail) to post regularly. Recent articles:
 
 - [What I learned using AI - Why the human-in-the-loop matters](https://stevegoode.dev/blog/what-i-learned-using-ai/)
+- [The Mass AI Learning Curve](https://stevegoode.dev/blog/the-mass-ai-learning-curve/)
 
 ## Connect
 
